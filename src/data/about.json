@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "About Us | SIV Cleaning - Commercial, Office & Childcare Cleaners",
+    "description": "Learn about SIV Cleaning, Melbourne's trusted commercial and office cleaning provider. Committed to high hygiene standards, vetted cleaners, and reliable service."
+  },
+  "hero": {
+    "title": "About SIV Cleaning",
+    "subtitle": "Delivering exceptional commercial and facility cleaning across Melbourne South East",
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About Us",
+        "href": "/about-us"
+      }
+    ]
+  },
+  "missionVision": {
+    "mission": {
+      "title": "Our Mission",
+      "description": "To deliver consistently superior, reliable, and hygienic cleaning services that create healthy, productive, and inviting spaces for businesses, educators, and healthcare providers across Melbourne."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be recognized as Melbourne's most trusted, conscientious, and detail-oriented commercial cleaning partner, setting the benchmark for environmental care, safety, and client satisfaction."
+    }
+  },
+  "story": {
+    "title": "Let's Make You Fresher Than Ever",
+    "subtitle": "A story of relentless dedication to clean and healthy workplaces",
+    "paragraphs": [
+      "SIV Cleaning was founded with a singular focus: to elevate commercial cleaning standards across Melbourne's rapidly growing south-eastern suburbs. We recognized that businesses were frustrated with inconsistent contract cleaners who cut corners, skipped inspections, and failed to communicate.",
+      "We believe in quality and understand that every workplace has distinct sanitization demands. A pediatric clinic requires different protocol than an engineering firm or a bustling kindergarten. That is why we personally inspect each site before crafting a dedicated checklist.",
+      "Today, our team of police-checked and insured cleaning specialists looks after offices, kindergartens, medical practices, and aged care centres. We combine industrial-grade equipment with hospital-approved disinfectants and eco-friendly options to guarantee spotless results every single day."
+    ]
+  },
+  "values": [
+    {
+      "title": "Reliability & Punctuality",
+      "description": "We show up on time, every time, following strict schedules so your staff never walks into an unserviced workspace."
+    },
+    {
+      "title": "Uncompromising Hygiene",
+      "description": "From touchpoints and sanitisation to deep floor scrubbing, we eliminate pathogens and allergens systematically."
+    },
+    {
+      "title": "Integrity & Security",
+      "description": "All staff are police cleared and supervised. Your confidential files, expensive tech, and facility security are guarded."
+    },
+    {
+      "title": "Clear Communication",
+      "description": "Regular site manager check-ins and an open feedback loop ensure any special requests are addressed immediately."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "hero": {
+    "badge": "Commercial Cleaning Services Across Melbourne South East",
+    "title": "Commercial Cleaning Services Melbourne",
+    "highlightText": "SIV Cleaning",
+    "description": "When it comes to maintaining a clean and inviting office in Melbourne, delegation is paramount. At SIV Cleaning, we pride ourselves on providing high-quality professional cleaning services tailored to the specific needs of businesses in Melbourne South East. Our dedicated team delivers pristine hygiene, flexible hours, and customized checklists.",
+    "ctaPrimary": {
+      "label": "Get a Free Quote",
+      "href": "#quote"
+    },
+    "ctaSecondary": {
+      "label": "Call 04 3245 2788",
+      "href": "tel:0432452788"
+    },
+    "trustPills": [
+      {
+        "icon": "ShieldCheck",
+        "text": "Police Checked & Insured"
+      },
+      {
+        "icon": "FileCheck",
+        "text": "GST Registered"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "text": "Regular Inspection & Quality Feedback"
+      },
+      {
+        "icon": "Clock",
+        "text": "24/7 Flexible Scheduling"
+      }
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=1200&q=80"
+  },
+  "intro": {
+    "subtitle": "Your Trusted Professional Cleaners in Melbourne",
+    "title": "Experience the SIV Cleaning Difference Today",
+    "description": "We believe in quality and think that every cleaning service has its own requirements and pace. We inspect every facility thoroughly to offer tailored cleaning plans that keep your workspaces immaculate, sanitary, and compliant with Australian health standards.",
+    "highlights": [
+      "150+ Satisfied commercial & institutional clients",
+      "100% Tailored cleaning schedules (after-hours & weekend available)",
+      "Strict quality control with supervisor site inspections",
+      "Eco-friendly, hospital-grade cleaning solutions"
+    ],
+    "experienceYears": "10+",
+    "cleaningsCompleted": "5,000+"
+  },
+  "whyChooseUs": {
+    "subtitle": "Why We Are The Best",
+    "title": "Why Choose SIV Cleaning for Your Cleaning Needs?",
+    "description": "Whether you operate a bustling corporate office, a sensitive medical clinic, or an energetic childcare facility, we bring expertise, equipment, and uncompromised safety.",
+    "features": [
+      {
+        "id": "inspection",
+        "icon": "SearchCheck",
+        "title": "Regular Inspection",
+        "description": "Our field managers perform routine quality inspections to guarantee that every checklist item meets our exacting standards."
+      },
+      {
+        "id": "trusted-team",
+        "icon": "Users",
+        "title": "Trusted & Vetted Team",
+        "description": "Every cleaning professional is thoroughly background-checked, vetted, trained, and uniformed for your complete peace of mind."
+      },
+      {
+        "id": "wwcc",
+        "icon": "Baby",
+        "title": "Working With Children Check",
+        "description": "All team members servicing schools, kindergartens, and childcare centres hold current verified WWCC certifications."
+      },
+      {
+        "id": "quality",
+        "icon": "Sparkles",
+        "title": "Consistent Premium Quality",
+        "description": "We use microfibre systems, colour-coded cross-contamination prevention, and medical-grade disinfectants."
+      },
+      {
+        "id": "insurance",
+        "icon": "ShieldAlert",
+        "title": "Public Liability Insurance",
+        "description": "Fully covered with comprehensive $20,000,000 public liability insurance for total protection of your premises."
+      },
+      {
+        "id": "family-owned",
+        "icon": "HeartHandshake",
+        "title": "Family Owned & Dedicated",
+        "description": "We take personal pride in every client relationship, offering direct accountability and attentive customer service."
+      },
+      {
+        "id": "flexibility",
+        "icon": "CalendarCheck",
+        "title": "Flexible Scheduling",
+        "description": "Cleaning available before business hours, after closing, weekends, or overnight so your daily workflow is uninterrupted."
+      },
+      {
+        "id": "eco",
+        "icon": "Leaf",
+        "title": "Eco-Friendly Products",
+        "description": "Non-toxic, low-chemical, green certified detergents safe for children, staff, patients, and pets."
+      },
+      {
+        "id": "local",
+        "icon": "MapPin",
+        "title": "Local Melbourne South East",
+        "description": "Fast response times, local supervisors, and deep familiarity with South East Melbourne commercial centres."
+      }
+    ]
+  },
+  "stats": [
+    {
+      "label": "Successful Cleanings",
+      "value": "5,200+"
+    },
+    {
+      "label": "Happy Business Clients",
+      "value": "180+"
+    },
+    {
+      "label": "Customer Satisfaction",
+      "value": "99.8%"
+    },
+    {
+      "label": "Suburbs Covered",
+      "value": "25+"
+    }
+  ],
+  "appointmentSection": {
+    "subtitle": "Make An Appointment",
+    "title": "Request a Free, No-Obligation Cleaning Quote",
+    "description": "Tell us about your premises and cleaning requirements. We will inspect your site and provide a transparent, competitively priced quote within 24 hours.",
+    "phoneNotice": "Need urgent cleaning or prefer to talk directly?",
+    "phoneNumber": "04 3245 2788"
+  }
+}

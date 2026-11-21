@@ -1,0 +1,156 @@
+{
+  "companyName": "SIV Cleaning",
+  "tagline": "Commercial Cleaning Services Across Melbourne South East",
+  "slogan": "Experience the difference quality makes",
+  "phone": "04 3245 2788",
+  "phoneRaw": "0432452788",
+  "phoneTel": "tel:0432452788",
+  "email": "info@sivcleaning.com.au",
+  "address": "Melbourne South East, Victoria, Australia",
+  "workingHours": "Monday - Sunday: 24/7 Available",
+  "abn": "GST Registered",
+  "insurance": "Fully Insured & Police Checked Cleaners ($20M Public Liability)",
+  "socials": {
+    "facebook": "https://facebook.com/sivcleaning",
+    "instagram": "https://instagram.com/sivcleaning",
+    "linkedin": "https://linkedin.com/company/sivcleaning"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About Us",
+      "href": "/about-us"
+    },
+    {
+      "label": "Services",
+      "href": "/services",
+      "children": [
+        {
+          "label": "Commercial Office Cleaning",
+          "href": "/service/commercial-cleaning-in-melbourne"
+        },
+        {
+          "label": "Child Care & Kindergarten Cleaning",
+          "href": "/service/child-care-and-kindergarten-cleaning"
+        },
+        {
+          "label": "Medical Centre Cleaning",
+          "href": "/service/medical-centre-cleaning"
+        },
+        {
+          "label": "Aged Care Cleaning Services",
+          "href": "/service/aged-care-cleaning-services"
+        },
+        {
+          "label": "End of Lease Cleaning",
+          "href": "/service/end-of-lease-cleaning-services"
+        }
+      ]
+    },
+    {
+      "label": "Locations",
+      "href": "#locations",
+      "isMegaMenu": true
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact-us"
+    }
+  ],
+  "footer": {
+    "about": "SIV Cleaning provides expert commercial, office, medical centre, child care, and aged care cleaning services across Melbourne's South East suburbs. We pride ourselves on reliable, consistent, and hygienic results.",
+    "quickLinks": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About Us",
+        "href": "/about-us"
+      },
+      {
+        "label": "Our Services",
+        "href": "/services"
+      },
+      {
+        "label": "Suburbs Directory",
+        "href": "/#locations"
+      },
+      {
+        "label": "Contact Us",
+        "href": "/contact-us"
+      },
+      {
+        "label": "Get a Free Quote",
+        "href": "/#quote"
+      }
+    ],
+    "serviceLinks": [
+      {
+        "label": "Office Cleaning",
+        "href": "/service/commercial-cleaning-in-melbourne"
+      },
+      {
+        "label": "Child Care & Kindergarten Cleaning",
+        "href": "/service/child-care-and-kindergarten-cleaning"
+      },
+      {
+        "label": "Medical Centre Cleaning",
+        "href": "/service/medical-centre-cleaning"
+      },
+      {
+        "label": "Aged Care Cleaning",
+        "href": "/service/aged-care-cleaning-services"
+      },
+      {
+        "label": "End of Lease Cleaning",
+        "href": "/service/end-of-lease-cleaning-services"
+      }
+    ],
+    "featuredSuburbs": [
+      {
+        "label": "Cranbourne",
+        "href": "/office-cleaning-cranbourne"
+      },
+      {
+        "label": "Berwick",
+        "href": "/office-cleaning-berwick"
+      },
+      {
+        "label": "Dandenong",
+        "href": "/office-cleaning-dandenong"
+      },
+      {
+        "label": "Glen Waverley",
+        "href": "/office-cleaning-glen-waverley"
+      },
+      {
+        "label": "Pakenham",
+        "href": "/office-cleaning-pakenham"
+      },
+      {
+        "label": "Clayton",
+        "href": "/office-cleaning-clayton"
+      },
+      {
+        "label": "Rowville",
+        "href": "/office-cleaning-rowville"
+      },
+      {
+        "label": "Moorabbin",
+        "href": "/office-cleaning-moorabbin"
+      }
+    ],
+    "accreditations": [
+      "GST Registered",
+      "Police Clearance Certified",
+      "Working With Children Checked",
+      "$20 Million Public Liability Insurance",
+      "Eco-Friendly Green Products Available"
+    ],
+    "copyright": "2026 © Copyright, SIV Cleaning. All rights reserved."
+  }
+}

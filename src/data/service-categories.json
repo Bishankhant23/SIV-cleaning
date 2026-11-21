@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "office-cleaning",
+    "title": "Office Cleaning",
+    "description": "Tailored daily, weekly, or after-hours commercial office cleaning for corporate headquarters, small businesses, and coworking hubs across Melbourne.",
+    "services": [
+      "commercial-cleaning-in-melbourne"
+    ]
+  },
+  {
+    "slug": "child-care-and-kindergarten-cleaning",
+    "title": "Child Care and Kindergarten Cleaning",
+    "description": "Hygienic, child-safe, and WWCC compliant cleaning for early learning centres, preschools, and daycares in Melbourne South East.",
+    "services": [
+      "child-care-and-kindergarten-cleaning"
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning",
+    "title": "Medical Centre Cleaning",
+    "description": "Hospital-grade sanitisation and clinical disinfection for GP clinics, dental surgeries, allied health clinics, and pathology centres.",
+    "services": [
+      "medical-centre-cleaning"
+    ]
+  },
+  {
+    "slug": "aged-care-cleaning",
+    "title": "Aged Care Cleaning",
+    "description": "Compassionate, high-standard residential aged care and retirement village cleaning promoting elderly resident health and wellbeing.",
+    "services": [
+      "aged-care-cleaning-services"
+    ]
+  },
+  {
+    "slug": "end-of-lease-cleaning",
+    "title": "End of Lease Cleaning",
+    "description": "Full make-good commercial cleaning and carpet steam cleaning ensuring full deposit returns for commercial tenants.",
+    "services": [
+      "end-of-lease-cleaning-services"
+    ]
+  }
+]

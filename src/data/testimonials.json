@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Henderson",
+    "role": "Operations Manager",
+    "company": "Commercial Logistics, Dandenong",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "March 2026",
+    "quote": "SIV Cleaning has transformed our warehouse offices. The cleaners are always punctual, courteous, and very thorough with touchpoint sanitisation. Our team noticed the difference on day one!"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Jenkins",
+    "role": "Centre Director",
+    "company": "Little Explorers Early Learning, Berwick",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "February 2026",
+    "quote": "Finding cleaners with genuine WWCC credentials who understand non-toxic cleaning was difficult until we hired SIV Cleaning. The classrooms are pristine every morning and parents frequently comment on how clean our centre smells."
+  },
+  {
+    "id": 3,
+    "name": "Dr. David Nguyen",
+    "role": "Principal Practitioner",
+    "company": "South East Medical Hub, Glen Waverley",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "January 2026",
+    "quote": "In a medical clinic, there is zero margin for error with hygiene. SIV Cleaning follows our infection control guidelines meticulously. Their supervision and regular audits give us total peace of mind."
+  },
+  {
+    "id": 4,
+    "name": "Amanda Wright",
+    "role": "Facility Manager",
+    "company": "Nexus Business Park, Mulgrave",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&q=80",
+    "rating": 5,
+    "date": "November 2025",
+    "quote": "Exceptional service across three corporate floors. Their communication is second to none; if there is ever a specific request, it is handled immediately by their supervisor."
+  }
+]
