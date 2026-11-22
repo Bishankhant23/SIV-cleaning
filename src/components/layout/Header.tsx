@@ -56,7 +56,7 @@ export default function Header({ config }: HeaderProps) {
             </span>
             <span className="flex items-center gap-1.5 text-slate-200">
               <MapPin className="w-3.5 h-3.5 text-brand-cyan" />
-              <span>Servicing Melbourne South East</span>
+              <span>Servicing Melbourne CBD, Inner Suburbs & South East</span>
             </span>
           </div>
 
@@ -98,10 +98,10 @@ export default function Header({ config }: HeaderProps) {
             />
             <div className="flex flex-col">
               <span className="text-xl sm:text-2xl font-black tracking-tight text-[#083863] leading-none">
-                SIV<span className="text-[#00acea]">CLEANING</span>
+                S I V
               </span>
-              <span className="text-[10px] uppercase font-bold tracking-widest text-slate-400 mt-0.5">
-                Commercial & Facility
+              <span className="text-[10px] uppercase font-bold tracking-widest text-[#00acea] mt-0.5">
+                Facility Services
               </span>
             </div>
           </Link>

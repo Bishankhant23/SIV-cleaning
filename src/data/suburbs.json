@@ -2724,5 +2724,2249 @@
         "slug": "medical-centre-cleaning-notting-hill"
       }
     ]
+  },
+  {
+    "slug": "office-cleaning-melbourne-cbd",
+    "serviceType": "Office Cleaning",
+    "suburb": "Melbourne CBD",
+    "postcode": "3000",
+    "council": "City of Melbourne",
+    "title": "Office Cleaning Melbourne CBD",
+    "metaTitle": "Office Cleaning Melbourne CBD | Commercial Cleaning Melbourne CBD - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in Melbourne CBD VIC 3000. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning Melbourne CBD – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in Melbourne CBD. SIV Cleaning delivers reliable, top-tier office cleaning services across Melbourne CBD and surrounding City of Melbourne precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in Melbourne CBD Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for Melbourne CBD workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Southbank",
+        "slug": "office-cleaning-southbank"
+      },
+      {
+        "name": "Docklands",
+        "slug": "office-cleaning-docklands"
+      },
+      {
+        "name": "East Melbourne",
+        "slug": "office-cleaning-east-melbourne"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "office-cleaning-west-melbourne"
+      },
+      {
+        "name": "Carlton",
+        "slug": "office-cleaning-carlton"
+      },
+      {
+        "name": "South Melbourne",
+        "slug": "office-cleaning-south-melbourne"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-melbourne-cbd",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "Melbourne CBD",
+    "postcode": "3000",
+    "council": "City of Melbourne",
+    "title": "Kindergarten Cleaning Melbourne CBD",
+    "metaTitle": "Kindergarten Cleaning Melbourne CBD | Childcare Centre Cleaning Melbourne CBD - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in Melbourne CBD VIC 3000. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning Melbourne CBD – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in Melbourne CBD require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across Melbourne CBD and the City of Melbourne. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in Melbourne CBD Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Southbank",
+        "slug": "kindergarten-cleaning-southbank"
+      },
+      {
+        "name": "Docklands",
+        "slug": "kindergarten-cleaning-docklands"
+      },
+      {
+        "name": "East Melbourne",
+        "slug": "kindergarten-cleaning-east-melbourne"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "kindergarten-cleaning-west-melbourne"
+      },
+      {
+        "name": "Carlton",
+        "slug": "kindergarten-cleaning-carlton"
+      },
+      {
+        "name": "South Melbourne",
+        "slug": "kindergarten-cleaning-south-melbourne"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-melbourne-cbd",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "Melbourne CBD",
+    "postcode": "3000",
+    "council": "City of Melbourne",
+    "title": "Medical Centre Cleaning Melbourne CBD",
+    "metaTitle": "Medical Centre Cleaning Melbourne CBD | Dental & Clinic Cleaning Melbourne CBD - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in Melbourne CBD VIC 3000. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning Melbourne CBD – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across Melbourne CBD and City of Melbourne. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in Melbourne CBD Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Southbank",
+        "slug": "medical-centre-cleaning-southbank"
+      },
+      {
+        "name": "Docklands",
+        "slug": "medical-centre-cleaning-docklands"
+      },
+      {
+        "name": "East Melbourne",
+        "slug": "medical-centre-cleaning-east-melbourne"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "medical-centre-cleaning-west-melbourne"
+      },
+      {
+        "name": "Carlton",
+        "slug": "medical-centre-cleaning-carlton"
+      },
+      {
+        "name": "South Melbourne",
+        "slug": "medical-centre-cleaning-south-melbourne"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-southbank",
+    "serviceType": "Office Cleaning",
+    "suburb": "Southbank",
+    "postcode": "3006",
+    "council": "City of Melbourne",
+    "title": "Office Cleaning Southbank",
+    "metaTitle": "Office Cleaning Southbank | Commercial Cleaning Southbank - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in Southbank VIC 3006. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning Southbank – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in Southbank. SIV Cleaning delivers reliable, top-tier office cleaning services across Southbank and surrounding City of Melbourne precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in Southbank Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for Southbank workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Docklands",
+        "slug": "office-cleaning-docklands"
+      },
+      {
+        "name": "South Melbourne",
+        "slug": "office-cleaning-south-melbourne"
+      },
+      {
+        "name": "Port Melbourne",
+        "slug": "office-cleaning-port-melbourne"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "office-cleaning-st-kilda"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "office-cleaning-south-yarra"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-southbank",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "Southbank",
+    "postcode": "3006",
+    "council": "City of Melbourne",
+    "title": "Kindergarten Cleaning Southbank",
+    "metaTitle": "Kindergarten Cleaning Southbank | Childcare Centre Cleaning Southbank - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in Southbank VIC 3006. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning Southbank – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in Southbank require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across Southbank and the City of Melbourne. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in Southbank Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Docklands",
+        "slug": "kindergarten-cleaning-docklands"
+      },
+      {
+        "name": "South Melbourne",
+        "slug": "kindergarten-cleaning-south-melbourne"
+      },
+      {
+        "name": "Port Melbourne",
+        "slug": "kindergarten-cleaning-port-melbourne"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "kindergarten-cleaning-st-kilda"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "kindergarten-cleaning-south-yarra"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-southbank",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "Southbank",
+    "postcode": "3006",
+    "council": "City of Melbourne",
+    "title": "Medical Centre Cleaning Southbank",
+    "metaTitle": "Medical Centre Cleaning Southbank | Dental & Clinic Cleaning Southbank - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in Southbank VIC 3006. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning Southbank – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across Southbank and City of Melbourne. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in Southbank Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Docklands",
+        "slug": "medical-centre-cleaning-docklands"
+      },
+      {
+        "name": "South Melbourne",
+        "slug": "medical-centre-cleaning-south-melbourne"
+      },
+      {
+        "name": "Port Melbourne",
+        "slug": "medical-centre-cleaning-port-melbourne"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "medical-centre-cleaning-st-kilda"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "medical-centre-cleaning-south-yarra"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-docklands",
+    "serviceType": "Office Cleaning",
+    "suburb": "Docklands",
+    "postcode": "3008",
+    "council": "City of Melbourne",
+    "title": "Office Cleaning Docklands",
+    "metaTitle": "Office Cleaning Docklands | Commercial Cleaning Docklands - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in Docklands VIC 3008. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning Docklands – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in Docklands. SIV Cleaning delivers reliable, top-tier office cleaning services across Docklands and surrounding City of Melbourne precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in Docklands Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for Docklands workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Southbank",
+        "slug": "office-cleaning-southbank"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "office-cleaning-west-melbourne"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "office-cleaning-north-melbourne"
+      },
+      {
+        "name": "Port Melbourne",
+        "slug": "office-cleaning-port-melbourne"
+      },
+      {
+        "name": "Carlton",
+        "slug": "office-cleaning-carlton"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-docklands",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "Docklands",
+    "postcode": "3008",
+    "council": "City of Melbourne",
+    "title": "Kindergarten Cleaning Docklands",
+    "metaTitle": "Kindergarten Cleaning Docklands | Childcare Centre Cleaning Docklands - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in Docklands VIC 3008. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning Docklands – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in Docklands require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across Docklands and the City of Melbourne. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in Docklands Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Southbank",
+        "slug": "kindergarten-cleaning-southbank"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "kindergarten-cleaning-west-melbourne"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "kindergarten-cleaning-north-melbourne"
+      },
+      {
+        "name": "Port Melbourne",
+        "slug": "kindergarten-cleaning-port-melbourne"
+      },
+      {
+        "name": "Carlton",
+        "slug": "kindergarten-cleaning-carlton"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-docklands",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "Docklands",
+    "postcode": "3008",
+    "council": "City of Melbourne",
+    "title": "Medical Centre Cleaning Docklands",
+    "metaTitle": "Medical Centre Cleaning Docklands | Dental & Clinic Cleaning Docklands - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in Docklands VIC 3008. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning Docklands – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across Docklands and City of Melbourne. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in Docklands Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Southbank",
+        "slug": "medical-centre-cleaning-southbank"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "medical-centre-cleaning-west-melbourne"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "medical-centre-cleaning-north-melbourne"
+      },
+      {
+        "name": "Port Melbourne",
+        "slug": "medical-centre-cleaning-port-melbourne"
+      },
+      {
+        "name": "Carlton",
+        "slug": "medical-centre-cleaning-carlton"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-east-melbourne",
+    "serviceType": "Office Cleaning",
+    "suburb": "East Melbourne",
+    "postcode": "3002",
+    "council": "City of Melbourne",
+    "title": "Office Cleaning East Melbourne",
+    "metaTitle": "Office Cleaning East Melbourne | Commercial Cleaning East Melbourne - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in East Melbourne VIC 3002. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning East Melbourne – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in East Melbourne. SIV Cleaning delivers reliable, top-tier office cleaning services across East Melbourne and surrounding City of Melbourne precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in East Melbourne Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for East Melbourne workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Richmond",
+        "slug": "office-cleaning-richmond"
+      },
+      {
+        "name": "Collingwood",
+        "slug": "office-cleaning-collingwood"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "office-cleaning-fitzroy"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "office-cleaning-south-yarra"
+      },
+      {
+        "name": "Carlton",
+        "slug": "office-cleaning-carlton"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-east-melbourne",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "East Melbourne",
+    "postcode": "3002",
+    "council": "City of Melbourne",
+    "title": "Kindergarten Cleaning East Melbourne",
+    "metaTitle": "Kindergarten Cleaning East Melbourne | Childcare Centre Cleaning East Melbourne - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in East Melbourne VIC 3002. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning East Melbourne – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in East Melbourne require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across East Melbourne and the City of Melbourne. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in East Melbourne Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Richmond",
+        "slug": "kindergarten-cleaning-richmond"
+      },
+      {
+        "name": "Collingwood",
+        "slug": "kindergarten-cleaning-collingwood"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "kindergarten-cleaning-fitzroy"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "kindergarten-cleaning-south-yarra"
+      },
+      {
+        "name": "Carlton",
+        "slug": "kindergarten-cleaning-carlton"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-east-melbourne",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "East Melbourne",
+    "postcode": "3002",
+    "council": "City of Melbourne",
+    "title": "Medical Centre Cleaning East Melbourne",
+    "metaTitle": "Medical Centre Cleaning East Melbourne | Dental & Clinic Cleaning East Melbourne - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in East Melbourne VIC 3002. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning East Melbourne – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across East Melbourne and City of Melbourne. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in East Melbourne Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Richmond",
+        "slug": "medical-centre-cleaning-richmond"
+      },
+      {
+        "name": "Collingwood",
+        "slug": "medical-centre-cleaning-collingwood"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "medical-centre-cleaning-fitzroy"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "medical-centre-cleaning-south-yarra"
+      },
+      {
+        "name": "Carlton",
+        "slug": "medical-centre-cleaning-carlton"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-west-melbourne",
+    "serviceType": "Office Cleaning",
+    "suburb": "West Melbourne",
+    "postcode": "3003",
+    "council": "City of Melbourne",
+    "title": "Office Cleaning West Melbourne",
+    "metaTitle": "Office Cleaning West Melbourne | Commercial Cleaning West Melbourne - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in West Melbourne VIC 3003. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning West Melbourne – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in West Melbourne. SIV Cleaning delivers reliable, top-tier office cleaning services across West Melbourne and surrounding City of Melbourne precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in West Melbourne Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for West Melbourne workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Docklands",
+        "slug": "office-cleaning-docklands"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "office-cleaning-north-melbourne"
+      },
+      {
+        "name": "Parkville",
+        "slug": "office-cleaning-parkville"
+      },
+      {
+        "name": "Carlton",
+        "slug": "office-cleaning-carlton"
+      },
+      {
+        "name": "Southbank",
+        "slug": "office-cleaning-southbank"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-west-melbourne",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "West Melbourne",
+    "postcode": "3003",
+    "council": "City of Melbourne",
+    "title": "Kindergarten Cleaning West Melbourne",
+    "metaTitle": "Kindergarten Cleaning West Melbourne | Childcare Centre Cleaning West Melbourne - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in West Melbourne VIC 3003. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning West Melbourne – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in West Melbourne require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across West Melbourne and the City of Melbourne. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in West Melbourne Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Docklands",
+        "slug": "kindergarten-cleaning-docklands"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "kindergarten-cleaning-north-melbourne"
+      },
+      {
+        "name": "Parkville",
+        "slug": "kindergarten-cleaning-parkville"
+      },
+      {
+        "name": "Carlton",
+        "slug": "kindergarten-cleaning-carlton"
+      },
+      {
+        "name": "Southbank",
+        "slug": "kindergarten-cleaning-southbank"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-west-melbourne",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "West Melbourne",
+    "postcode": "3003",
+    "council": "City of Melbourne",
+    "title": "Medical Centre Cleaning West Melbourne",
+    "metaTitle": "Medical Centre Cleaning West Melbourne | Dental & Clinic Cleaning West Melbourne - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in West Melbourne VIC 3003. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning West Melbourne – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across West Melbourne and City of Melbourne. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in West Melbourne Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Docklands",
+        "slug": "medical-centre-cleaning-docklands"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "medical-centre-cleaning-north-melbourne"
+      },
+      {
+        "name": "Parkville",
+        "slug": "medical-centre-cleaning-parkville"
+      },
+      {
+        "name": "Carlton",
+        "slug": "medical-centre-cleaning-carlton"
+      },
+      {
+        "name": "Southbank",
+        "slug": "medical-centre-cleaning-southbank"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-north-melbourne",
+    "serviceType": "Office Cleaning",
+    "suburb": "North Melbourne",
+    "postcode": "3051",
+    "council": "City of Melbourne",
+    "title": "Office Cleaning North Melbourne",
+    "metaTitle": "Office Cleaning North Melbourne | Commercial Cleaning North Melbourne - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in North Melbourne VIC 3051. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning North Melbourne – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in North Melbourne. SIV Cleaning delivers reliable, top-tier office cleaning services across North Melbourne and surrounding City of Melbourne precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in North Melbourne Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for North Melbourne workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "office-cleaning-west-melbourne"
+      },
+      {
+        "name": "Parkville",
+        "slug": "office-cleaning-parkville"
+      },
+      {
+        "name": "Carlton",
+        "slug": "office-cleaning-carlton"
+      },
+      {
+        "name": "Docklands",
+        "slug": "office-cleaning-docklands"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "office-cleaning-fitzroy"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-north-melbourne",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "North Melbourne",
+    "postcode": "3051",
+    "council": "City of Melbourne",
+    "title": "Kindergarten Cleaning North Melbourne",
+    "metaTitle": "Kindergarten Cleaning North Melbourne | Childcare Centre Cleaning North Melbourne - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in North Melbourne VIC 3051. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning North Melbourne – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in North Melbourne require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across North Melbourne and the City of Melbourne. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in North Melbourne Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "kindergarten-cleaning-west-melbourne"
+      },
+      {
+        "name": "Parkville",
+        "slug": "kindergarten-cleaning-parkville"
+      },
+      {
+        "name": "Carlton",
+        "slug": "kindergarten-cleaning-carlton"
+      },
+      {
+        "name": "Docklands",
+        "slug": "kindergarten-cleaning-docklands"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "kindergarten-cleaning-fitzroy"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-north-melbourne",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "North Melbourne",
+    "postcode": "3051",
+    "council": "City of Melbourne",
+    "title": "Medical Centre Cleaning North Melbourne",
+    "metaTitle": "Medical Centre Cleaning North Melbourne | Dental & Clinic Cleaning North Melbourne - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in North Melbourne VIC 3051. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning North Melbourne – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across North Melbourne and City of Melbourne. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in North Melbourne Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "medical-centre-cleaning-west-melbourne"
+      },
+      {
+        "name": "Parkville",
+        "slug": "medical-centre-cleaning-parkville"
+      },
+      {
+        "name": "Carlton",
+        "slug": "medical-centre-cleaning-carlton"
+      },
+      {
+        "name": "Docklands",
+        "slug": "medical-centre-cleaning-docklands"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "medical-centre-cleaning-fitzroy"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-carlton",
+    "serviceType": "Office Cleaning",
+    "suburb": "Carlton",
+    "postcode": "3053",
+    "council": "City of Melbourne",
+    "title": "Office Cleaning Carlton",
+    "metaTitle": "Office Cleaning Carlton | Commercial Cleaning Carlton - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in Carlton VIC 3053. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning Carlton – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in Carlton. SIV Cleaning delivers reliable, top-tier office cleaning services across Carlton and surrounding City of Melbourne precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in Carlton Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for Carlton workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "office-cleaning-fitzroy"
+      },
+      {
+        "name": "Parkville",
+        "slug": "office-cleaning-parkville"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "office-cleaning-north-melbourne"
+      },
+      {
+        "name": "East Melbourne",
+        "slug": "office-cleaning-east-melbourne"
+      },
+      {
+        "name": "Collingwood",
+        "slug": "office-cleaning-collingwood"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-carlton",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "Carlton",
+    "postcode": "3053",
+    "council": "City of Melbourne",
+    "title": "Kindergarten Cleaning Carlton",
+    "metaTitle": "Kindergarten Cleaning Carlton | Childcare Centre Cleaning Carlton - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in Carlton VIC 3053. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning Carlton – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in Carlton require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across Carlton and the City of Melbourne. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in Carlton Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "kindergarten-cleaning-fitzroy"
+      },
+      {
+        "name": "Parkville",
+        "slug": "kindergarten-cleaning-parkville"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "kindergarten-cleaning-north-melbourne"
+      },
+      {
+        "name": "East Melbourne",
+        "slug": "kindergarten-cleaning-east-melbourne"
+      },
+      {
+        "name": "Collingwood",
+        "slug": "kindergarten-cleaning-collingwood"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-carlton",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "Carlton",
+    "postcode": "3053",
+    "council": "City of Melbourne",
+    "title": "Medical Centre Cleaning Carlton",
+    "metaTitle": "Medical Centre Cleaning Carlton | Dental & Clinic Cleaning Carlton - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in Carlton VIC 3053. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning Carlton – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across Carlton and City of Melbourne. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in Carlton Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "medical-centre-cleaning-fitzroy"
+      },
+      {
+        "name": "Parkville",
+        "slug": "medical-centre-cleaning-parkville"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "medical-centre-cleaning-north-melbourne"
+      },
+      {
+        "name": "East Melbourne",
+        "slug": "medical-centre-cleaning-east-melbourne"
+      },
+      {
+        "name": "Collingwood",
+        "slug": "medical-centre-cleaning-collingwood"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-parkville",
+    "serviceType": "Office Cleaning",
+    "suburb": "Parkville",
+    "postcode": "3052",
+    "council": "City of Melbourne",
+    "title": "Office Cleaning Parkville",
+    "metaTitle": "Office Cleaning Parkville | Commercial Cleaning Parkville - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in Parkville VIC 3052. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning Parkville – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in Parkville. SIV Cleaning delivers reliable, top-tier office cleaning services across Parkville and surrounding City of Melbourne precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in Parkville Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for Parkville workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Carlton",
+        "slug": "office-cleaning-carlton"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "office-cleaning-north-melbourne"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "office-cleaning-west-melbourne"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "office-cleaning-fitzroy"
+      },
+      {
+        "name": "Docklands",
+        "slug": "office-cleaning-docklands"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-parkville",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "Parkville",
+    "postcode": "3052",
+    "council": "City of Melbourne",
+    "title": "Kindergarten Cleaning Parkville",
+    "metaTitle": "Kindergarten Cleaning Parkville | Childcare Centre Cleaning Parkville - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in Parkville VIC 3052. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning Parkville – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in Parkville require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across Parkville and the City of Melbourne. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in Parkville Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Carlton",
+        "slug": "kindergarten-cleaning-carlton"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "kindergarten-cleaning-north-melbourne"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "kindergarten-cleaning-west-melbourne"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "kindergarten-cleaning-fitzroy"
+      },
+      {
+        "name": "Docklands",
+        "slug": "kindergarten-cleaning-docklands"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-parkville",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "Parkville",
+    "postcode": "3052",
+    "council": "City of Melbourne",
+    "title": "Medical Centre Cleaning Parkville",
+    "metaTitle": "Medical Centre Cleaning Parkville | Dental & Clinic Cleaning Parkville - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in Parkville VIC 3052. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning Parkville – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across Parkville and City of Melbourne. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in Parkville Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Carlton",
+        "slug": "medical-centre-cleaning-carlton"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "medical-centre-cleaning-north-melbourne"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "West Melbourne",
+        "slug": "medical-centre-cleaning-west-melbourne"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "medical-centre-cleaning-fitzroy"
+      },
+      {
+        "name": "Docklands",
+        "slug": "medical-centre-cleaning-docklands"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-south-melbourne",
+    "serviceType": "Office Cleaning",
+    "suburb": "South Melbourne",
+    "postcode": "3205",
+    "council": "City of Port Phillip",
+    "title": "Office Cleaning South Melbourne",
+    "metaTitle": "Office Cleaning South Melbourne | Commercial Cleaning South Melbourne - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in South Melbourne VIC 3205. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning South Melbourne – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in South Melbourne. SIV Cleaning delivers reliable, top-tier office cleaning services across South Melbourne and surrounding City of Port Phillip precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in South Melbourne Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for South Melbourne workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Southbank",
+        "slug": "office-cleaning-southbank"
+      },
+      {
+        "name": "Port Melbourne",
+        "slug": "office-cleaning-port-melbourne"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "office-cleaning-st-kilda"
+      },
+      {
+        "name": "Prahran",
+        "slug": "office-cleaning-prahran"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "office-cleaning-south-yarra"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-south-melbourne",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "South Melbourne",
+    "postcode": "3205",
+    "council": "City of Port Phillip",
+    "title": "Kindergarten Cleaning South Melbourne",
+    "metaTitle": "Kindergarten Cleaning South Melbourne | Childcare Centre Cleaning South Melbourne - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in South Melbourne VIC 3205. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning South Melbourne – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in South Melbourne require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across South Melbourne and the City of Port Phillip. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in South Melbourne Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Southbank",
+        "slug": "kindergarten-cleaning-southbank"
+      },
+      {
+        "name": "Port Melbourne",
+        "slug": "kindergarten-cleaning-port-melbourne"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "kindergarten-cleaning-st-kilda"
+      },
+      {
+        "name": "Prahran",
+        "slug": "kindergarten-cleaning-prahran"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "kindergarten-cleaning-south-yarra"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-south-melbourne",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "South Melbourne",
+    "postcode": "3205",
+    "council": "City of Port Phillip",
+    "title": "Medical Centre Cleaning South Melbourne",
+    "metaTitle": "Medical Centre Cleaning South Melbourne | Dental & Clinic Cleaning South Melbourne - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in South Melbourne VIC 3205. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning South Melbourne – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across South Melbourne and City of Port Phillip. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in South Melbourne Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Southbank",
+        "slug": "medical-centre-cleaning-southbank"
+      },
+      {
+        "name": "Port Melbourne",
+        "slug": "medical-centre-cleaning-port-melbourne"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "medical-centre-cleaning-st-kilda"
+      },
+      {
+        "name": "Prahran",
+        "slug": "medical-centre-cleaning-prahran"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "medical-centre-cleaning-south-yarra"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-port-melbourne",
+    "serviceType": "Office Cleaning",
+    "suburb": "Port Melbourne",
+    "postcode": "3207",
+    "council": "City of Port Phillip",
+    "title": "Office Cleaning Port Melbourne",
+    "metaTitle": "Office Cleaning Port Melbourne | Commercial Cleaning Port Melbourne - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in Port Melbourne VIC 3207. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning Port Melbourne – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in Port Melbourne. SIV Cleaning delivers reliable, top-tier office cleaning services across Port Melbourne and surrounding City of Port Phillip precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in Port Melbourne Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for Port Melbourne workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "South Melbourne",
+        "slug": "office-cleaning-south-melbourne"
+      },
+      {
+        "name": "Docklands",
+        "slug": "office-cleaning-docklands"
+      },
+      {
+        "name": "Southbank",
+        "slug": "office-cleaning-southbank"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "office-cleaning-st-kilda"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-port-melbourne",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "Port Melbourne",
+    "postcode": "3207",
+    "council": "City of Port Phillip",
+    "title": "Kindergarten Cleaning Port Melbourne",
+    "metaTitle": "Kindergarten Cleaning Port Melbourne | Childcare Centre Cleaning Port Melbourne - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in Port Melbourne VIC 3207. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning Port Melbourne – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in Port Melbourne require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across Port Melbourne and the City of Port Phillip. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in Port Melbourne Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "South Melbourne",
+        "slug": "kindergarten-cleaning-south-melbourne"
+      },
+      {
+        "name": "Docklands",
+        "slug": "kindergarten-cleaning-docklands"
+      },
+      {
+        "name": "Southbank",
+        "slug": "kindergarten-cleaning-southbank"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "kindergarten-cleaning-st-kilda"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-port-melbourne",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "Port Melbourne",
+    "postcode": "3207",
+    "council": "City of Port Phillip",
+    "title": "Medical Centre Cleaning Port Melbourne",
+    "metaTitle": "Medical Centre Cleaning Port Melbourne | Dental & Clinic Cleaning Port Melbourne - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in Port Melbourne VIC 3207. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning Port Melbourne – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across Port Melbourne and City of Port Phillip. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in Port Melbourne Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "South Melbourne",
+        "slug": "medical-centre-cleaning-south-melbourne"
+      },
+      {
+        "name": "Docklands",
+        "slug": "medical-centre-cleaning-docklands"
+      },
+      {
+        "name": "Southbank",
+        "slug": "medical-centre-cleaning-southbank"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "medical-centre-cleaning-st-kilda"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-richmond",
+    "serviceType": "Office Cleaning",
+    "suburb": "Richmond",
+    "postcode": "3121",
+    "council": "City of Yarra",
+    "title": "Office Cleaning Richmond",
+    "metaTitle": "Office Cleaning Richmond | Commercial Cleaning Richmond - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in Richmond VIC 3121. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning Richmond – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in Richmond. SIV Cleaning delivers reliable, top-tier office cleaning services across Richmond and surrounding City of Yarra precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in Richmond Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for Richmond workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "East Melbourne",
+        "slug": "office-cleaning-east-melbourne"
+      },
+      {
+        "name": "Collingwood",
+        "slug": "office-cleaning-collingwood"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "office-cleaning-south-yarra"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "office-cleaning-fitzroy"
+      },
+      {
+        "name": "Prahran",
+        "slug": "office-cleaning-prahran"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-richmond",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "Richmond",
+    "postcode": "3121",
+    "council": "City of Yarra",
+    "title": "Kindergarten Cleaning Richmond",
+    "metaTitle": "Kindergarten Cleaning Richmond | Childcare Centre Cleaning Richmond - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in Richmond VIC 3121. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning Richmond – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in Richmond require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across Richmond and the City of Yarra. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in Richmond Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "East Melbourne",
+        "slug": "kindergarten-cleaning-east-melbourne"
+      },
+      {
+        "name": "Collingwood",
+        "slug": "kindergarten-cleaning-collingwood"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "kindergarten-cleaning-south-yarra"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "kindergarten-cleaning-fitzroy"
+      },
+      {
+        "name": "Prahran",
+        "slug": "kindergarten-cleaning-prahran"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-richmond",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "Richmond",
+    "postcode": "3121",
+    "council": "City of Yarra",
+    "title": "Medical Centre Cleaning Richmond",
+    "metaTitle": "Medical Centre Cleaning Richmond | Dental & Clinic Cleaning Richmond - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in Richmond VIC 3121. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning Richmond – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across Richmond and City of Yarra. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in Richmond Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "East Melbourne",
+        "slug": "medical-centre-cleaning-east-melbourne"
+      },
+      {
+        "name": "Collingwood",
+        "slug": "medical-centre-cleaning-collingwood"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "medical-centre-cleaning-south-yarra"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Fitzroy",
+        "slug": "medical-centre-cleaning-fitzroy"
+      },
+      {
+        "name": "Prahran",
+        "slug": "medical-centre-cleaning-prahran"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-collingwood",
+    "serviceType": "Office Cleaning",
+    "suburb": "Collingwood",
+    "postcode": "3066",
+    "council": "City of Yarra",
+    "title": "Office Cleaning Collingwood",
+    "metaTitle": "Office Cleaning Collingwood | Commercial Cleaning Collingwood - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in Collingwood VIC 3066. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning Collingwood – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in Collingwood. SIV Cleaning delivers reliable, top-tier office cleaning services across Collingwood and surrounding City of Yarra precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in Collingwood Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for Collingwood workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Fitzroy",
+        "slug": "office-cleaning-fitzroy"
+      },
+      {
+        "name": "Richmond",
+        "slug": "office-cleaning-richmond"
+      },
+      {
+        "name": "East Melbourne",
+        "slug": "office-cleaning-east-melbourne"
+      },
+      {
+        "name": "Carlton",
+        "slug": "office-cleaning-carlton"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "office-cleaning-south-yarra"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-collingwood",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "Collingwood",
+    "postcode": "3066",
+    "council": "City of Yarra",
+    "title": "Kindergarten Cleaning Collingwood",
+    "metaTitle": "Kindergarten Cleaning Collingwood | Childcare Centre Cleaning Collingwood - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in Collingwood VIC 3066. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning Collingwood – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in Collingwood require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across Collingwood and the City of Yarra. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in Collingwood Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Fitzroy",
+        "slug": "kindergarten-cleaning-fitzroy"
+      },
+      {
+        "name": "Richmond",
+        "slug": "kindergarten-cleaning-richmond"
+      },
+      {
+        "name": "East Melbourne",
+        "slug": "kindergarten-cleaning-east-melbourne"
+      },
+      {
+        "name": "Carlton",
+        "slug": "kindergarten-cleaning-carlton"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "kindergarten-cleaning-south-yarra"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-collingwood",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "Collingwood",
+    "postcode": "3066",
+    "council": "City of Yarra",
+    "title": "Medical Centre Cleaning Collingwood",
+    "metaTitle": "Medical Centre Cleaning Collingwood | Dental & Clinic Cleaning Collingwood - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in Collingwood VIC 3066. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning Collingwood – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across Collingwood and City of Yarra. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in Collingwood Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Fitzroy",
+        "slug": "medical-centre-cleaning-fitzroy"
+      },
+      {
+        "name": "Richmond",
+        "slug": "medical-centre-cleaning-richmond"
+      },
+      {
+        "name": "East Melbourne",
+        "slug": "medical-centre-cleaning-east-melbourne"
+      },
+      {
+        "name": "Carlton",
+        "slug": "medical-centre-cleaning-carlton"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "medical-centre-cleaning-south-yarra"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-fitzroy",
+    "serviceType": "Office Cleaning",
+    "suburb": "Fitzroy",
+    "postcode": "3065",
+    "council": "City of Yarra",
+    "title": "Office Cleaning Fitzroy",
+    "metaTitle": "Office Cleaning Fitzroy | Commercial Cleaning Fitzroy - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in Fitzroy VIC 3065. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning Fitzroy – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in Fitzroy. SIV Cleaning delivers reliable, top-tier office cleaning services across Fitzroy and surrounding City of Yarra precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in Fitzroy Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for Fitzroy workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Collingwood",
+        "slug": "office-cleaning-collingwood"
+      },
+      {
+        "name": "Carlton",
+        "slug": "office-cleaning-carlton"
+      },
+      {
+        "name": "East Melbourne",
+        "slug": "office-cleaning-east-melbourne"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "office-cleaning-north-melbourne"
+      },
+      {
+        "name": "Richmond",
+        "slug": "office-cleaning-richmond"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-fitzroy",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "Fitzroy",
+    "postcode": "3065",
+    "council": "City of Yarra",
+    "title": "Kindergarten Cleaning Fitzroy",
+    "metaTitle": "Kindergarten Cleaning Fitzroy | Childcare Centre Cleaning Fitzroy - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in Fitzroy VIC 3065. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning Fitzroy – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in Fitzroy require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across Fitzroy and the City of Yarra. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in Fitzroy Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Collingwood",
+        "slug": "kindergarten-cleaning-collingwood"
+      },
+      {
+        "name": "Carlton",
+        "slug": "kindergarten-cleaning-carlton"
+      },
+      {
+        "name": "East Melbourne",
+        "slug": "kindergarten-cleaning-east-melbourne"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "kindergarten-cleaning-north-melbourne"
+      },
+      {
+        "name": "Richmond",
+        "slug": "kindergarten-cleaning-richmond"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-fitzroy",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "Fitzroy",
+    "postcode": "3065",
+    "council": "City of Yarra",
+    "title": "Medical Centre Cleaning Fitzroy",
+    "metaTitle": "Medical Centre Cleaning Fitzroy | Dental & Clinic Cleaning Fitzroy - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in Fitzroy VIC 3065. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning Fitzroy – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across Fitzroy and City of Yarra. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in Fitzroy Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Collingwood",
+        "slug": "medical-centre-cleaning-collingwood"
+      },
+      {
+        "name": "Carlton",
+        "slug": "medical-centre-cleaning-carlton"
+      },
+      {
+        "name": "East Melbourne",
+        "slug": "medical-centre-cleaning-east-melbourne"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "North Melbourne",
+        "slug": "medical-centre-cleaning-north-melbourne"
+      },
+      {
+        "name": "Richmond",
+        "slug": "medical-centre-cleaning-richmond"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-south-yarra",
+    "serviceType": "Office Cleaning",
+    "suburb": "South Yarra",
+    "postcode": "3141",
+    "council": "City of Stonnington",
+    "title": "Office Cleaning South Yarra",
+    "metaTitle": "Office Cleaning South Yarra | Commercial Cleaning South Yarra - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in South Yarra VIC 3141. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning South Yarra – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in South Yarra. SIV Cleaning delivers reliable, top-tier office cleaning services across South Yarra and surrounding City of Stonnington precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in South Yarra Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for South Yarra workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Prahran",
+        "slug": "office-cleaning-prahran"
+      },
+      {
+        "name": "Richmond",
+        "slug": "office-cleaning-richmond"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "office-cleaning-st-kilda"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Southbank",
+        "slug": "office-cleaning-southbank"
+      },
+      {
+        "name": "South Melbourne",
+        "slug": "office-cleaning-south-melbourne"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-south-yarra",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "South Yarra",
+    "postcode": "3141",
+    "council": "City of Stonnington",
+    "title": "Kindergarten Cleaning South Yarra",
+    "metaTitle": "Kindergarten Cleaning South Yarra | Childcare Centre Cleaning South Yarra - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in South Yarra VIC 3141. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning South Yarra – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in South Yarra require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across South Yarra and the City of Stonnington. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in South Yarra Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Prahran",
+        "slug": "kindergarten-cleaning-prahran"
+      },
+      {
+        "name": "Richmond",
+        "slug": "kindergarten-cleaning-richmond"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "kindergarten-cleaning-st-kilda"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Southbank",
+        "slug": "kindergarten-cleaning-southbank"
+      },
+      {
+        "name": "South Melbourne",
+        "slug": "kindergarten-cleaning-south-melbourne"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-south-yarra",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "South Yarra",
+    "postcode": "3141",
+    "council": "City of Stonnington",
+    "title": "Medical Centre Cleaning South Yarra",
+    "metaTitle": "Medical Centre Cleaning South Yarra | Dental & Clinic Cleaning South Yarra - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in South Yarra VIC 3141. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning South Yarra – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across South Yarra and City of Stonnington. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in South Yarra Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "Prahran",
+        "slug": "medical-centre-cleaning-prahran"
+      },
+      {
+        "name": "Richmond",
+        "slug": "medical-centre-cleaning-richmond"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "medical-centre-cleaning-st-kilda"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Southbank",
+        "slug": "medical-centre-cleaning-southbank"
+      },
+      {
+        "name": "South Melbourne",
+        "slug": "medical-centre-cleaning-south-melbourne"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-st-kilda",
+    "serviceType": "Office Cleaning",
+    "suburb": "St Kilda",
+    "postcode": "3182",
+    "council": "City of Port Phillip",
+    "title": "Office Cleaning St Kilda",
+    "metaTitle": "Office Cleaning St Kilda | Commercial Cleaning St Kilda - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in St Kilda VIC 3182. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning St Kilda – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in St Kilda. SIV Cleaning delivers reliable, top-tier office cleaning services across St Kilda and surrounding City of Port Phillip precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in St Kilda Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for St Kilda workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "South Melbourne",
+        "slug": "office-cleaning-south-melbourne"
+      },
+      {
+        "name": "Prahran",
+        "slug": "office-cleaning-prahran"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "office-cleaning-south-yarra"
+      },
+      {
+        "name": "Port Melbourne",
+        "slug": "office-cleaning-port-melbourne"
+      },
+      {
+        "name": "Southbank",
+        "slug": "office-cleaning-southbank"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-st-kilda",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "St Kilda",
+    "postcode": "3182",
+    "council": "City of Port Phillip",
+    "title": "Kindergarten Cleaning St Kilda",
+    "metaTitle": "Kindergarten Cleaning St Kilda | Childcare Centre Cleaning St Kilda - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in St Kilda VIC 3182. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning St Kilda – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in St Kilda require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across St Kilda and the City of Port Phillip. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in St Kilda Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "South Melbourne",
+        "slug": "kindergarten-cleaning-south-melbourne"
+      },
+      {
+        "name": "Prahran",
+        "slug": "kindergarten-cleaning-prahran"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "kindergarten-cleaning-south-yarra"
+      },
+      {
+        "name": "Port Melbourne",
+        "slug": "kindergarten-cleaning-port-melbourne"
+      },
+      {
+        "name": "Southbank",
+        "slug": "kindergarten-cleaning-southbank"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-st-kilda",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "St Kilda",
+    "postcode": "3182",
+    "council": "City of Port Phillip",
+    "title": "Medical Centre Cleaning St Kilda",
+    "metaTitle": "Medical Centre Cleaning St Kilda | Dental & Clinic Cleaning St Kilda - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in St Kilda VIC 3182. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning St Kilda – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across St Kilda and City of Port Phillip. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in St Kilda Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "South Melbourne",
+        "slug": "medical-centre-cleaning-south-melbourne"
+      },
+      {
+        "name": "Prahran",
+        "slug": "medical-centre-cleaning-prahran"
+      },
+      {
+        "name": "South Yarra",
+        "slug": "medical-centre-cleaning-south-yarra"
+      },
+      {
+        "name": "Port Melbourne",
+        "slug": "medical-centre-cleaning-port-melbourne"
+      },
+      {
+        "name": "Southbank",
+        "slug": "medical-centre-cleaning-southbank"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      }
+    ]
+  },
+  {
+    "slug": "office-cleaning-prahran",
+    "serviceType": "Office Cleaning",
+    "suburb": "Prahran",
+    "postcode": "3181",
+    "council": "City of Stonnington",
+    "title": "Office Cleaning Prahran",
+    "metaTitle": "Office Cleaning Prahran | Commercial Cleaning Prahran - SIV Cleaning",
+    "metaDescription": "Professional office cleaning services in Prahran VIC 3181. Reliable, after-hours commercial cleaners for local businesses. Free quotes!",
+    "heading1": "Office Cleaning Prahran – Professional Cleaning for Local Workplaces",
+    "intro": "Keeping an office clean, hygienic, and organized is essential for every business in Prahran. SIV Cleaning delivers reliable, top-tier office cleaning services across Prahran and surrounding City of Stonnington precincts. Whether you operate a corporate headquarters, creative agency, co-working space, or professional consulting rooms, our vetted cleaners deliver consistent sanitisation tailored to your schedule.",
+    "whyTitle": "Why Businesses in Prahran Choose SIV Cleaning",
+    "checklist": [
+      "Tailored cleaning programs for Prahran workplaces with flexible after-hours scheduling",
+      "Comprehensive workstation sanitisation, touchpoint disinfection, and monitor care",
+      "High-traffic carpet steam cleaning and hard-floor maintenance",
+      "Spotless washroom sanitisation, deodorising, and daily consumable restocking",
+      "Strict keyholding and security protocols with police-checked, insured staff",
+      "Eco-friendly, hospital-grade, low-VOC disinfectants and microfiber technology"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "South Yarra",
+        "slug": "office-cleaning-south-yarra"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "office-cleaning-st-kilda"
+      },
+      {
+        "name": "South Melbourne",
+        "slug": "office-cleaning-south-melbourne"
+      },
+      {
+        "name": "Richmond",
+        "slug": "office-cleaning-richmond"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "office-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Southbank",
+        "slug": "office-cleaning-southbank"
+      }
+    ]
+  },
+  {
+    "slug": "kindergarten-cleaning-prahran",
+    "serviceType": "Kindergarten Cleaning",
+    "suburb": "Prahran",
+    "postcode": "3181",
+    "council": "City of Stonnington",
+    "title": "Kindergarten Cleaning Prahran",
+    "metaTitle": "Kindergarten Cleaning Prahran | Childcare Centre Cleaning Prahran - SIV Cleaning",
+    "metaDescription": "Accredited kindergarten & childcare centre cleaning in Prahran VIC 3181. Non-toxic, child-safe sanitisation meeting ACECQA national standards.",
+    "heading1": "Kindergarten & Childcare Cleaning Prahran – Safe, Child-Friendly Hygiene",
+    "intro": "Early learning centres, preschools, and kindergartens in Prahran require uncompromising hygiene and disease prevention. SIV Cleaning specializes in pediatric-safe, non-toxic cleaning protocols for childcare providers across Prahran and the City of Stonnington. We help you uphold stringent ACECQA standards with verified sanitation logs.",
+    "whyTitle": "Why Childcare Centres in Prahran Trust SIV Cleaning",
+    "checklist": [
+      "100% child-safe, non-toxic, eco-certified disinfectants that eliminate 99.9% of bacteria",
+      "Daily sanitisation of toy areas, play mats, craft tables, and high-frequency touchpoints",
+      "Complete diaper change station, bathroom, and potty training sanitisation",
+      "Food prep and dining area sterilisation exceeding Victorian health guidelines",
+      "Working with Children Check (WWCC) & national police-cleared personnel",
+      "Detailed sanitisation logs for full ACECQA and council compliance"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "South Yarra",
+        "slug": "kindergarten-cleaning-south-yarra"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "kindergarten-cleaning-st-kilda"
+      },
+      {
+        "name": "South Melbourne",
+        "slug": "kindergarten-cleaning-south-melbourne"
+      },
+      {
+        "name": "Richmond",
+        "slug": "kindergarten-cleaning-richmond"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "kindergarten-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Southbank",
+        "slug": "kindergarten-cleaning-southbank"
+      }
+    ]
+  },
+  {
+    "slug": "medical-centre-cleaning-prahran",
+    "serviceType": "Medical Centre Cleaning",
+    "suburb": "Prahran",
+    "postcode": "3181",
+    "council": "City of Stonnington",
+    "title": "Medical Centre Cleaning Prahran",
+    "metaTitle": "Medical Centre Cleaning Prahran | Dental & Clinic Cleaning Prahran - SIV Cleaning",
+    "metaDescription": "Infection control & medical clinic cleaning in Prahran VIC 3181. RACGP compliant sanitation for GP clinics, dental surgeries, and allied health.",
+    "heading1": "Medical Centre Cleaning Prahran – Clinical-Grade Sanitisation",
+    "intro": "Clinical environments demand zero room for error when it comes to infection control. SIV Cleaning delivers specialised, cross-contamination prevention cleaning for healthcare clinics, dental practices, physiotherapy studios, and medical specialists across Prahran and City of Stonnington. Our certified team complies with RACGP infection control standards.",
+    "whyTitle": "Why Medical Providers in Prahran Partner with SIV Cleaning",
+    "checklist": [
+      "Strict adherence to RACGP infection prevention standards and healthcare hygiene guidelines",
+      "Colour-coded microfiber systems preventing cross-contamination between clinical and public zones",
+      "Hospital-grade TGA-approved disinfection for waiting rooms, reception, and consult rooms",
+      "Clinical waste containment, sharps protocol awareness, and bio-hazard readiness",
+      "Trained, police-checked cleaners equipped with complete personal protective equipment (PPE)",
+      "Detailed audit logs and compliance documentation for clinical accreditation"
+    ],
+    "nearbySuburbs": [
+      {
+        "name": "South Yarra",
+        "slug": "medical-centre-cleaning-south-yarra"
+      },
+      {
+        "name": "St Kilda",
+        "slug": "medical-centre-cleaning-st-kilda"
+      },
+      {
+        "name": "South Melbourne",
+        "slug": "medical-centre-cleaning-south-melbourne"
+      },
+      {
+        "name": "Richmond",
+        "slug": "medical-centre-cleaning-richmond"
+      },
+      {
+        "name": "Melbourne CBD",
+        "slug": "medical-centre-cleaning-melbourne-cbd"
+      },
+      {
+        "name": "Southbank",
+        "slug": "medical-centre-cleaning-southbank"
+      }
+    ]
   }
 ]
